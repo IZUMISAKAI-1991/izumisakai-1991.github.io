@@ -6,7 +6,7 @@
   <link href="https://zard.fun/atom.xml" rel="self"/>
   
   <link href="https://zard.fun/"/>
-  <updated>2021-06-11T06:21:53.574Z</updated>
+  <updated>2021-06-12T08:19:04.504Z</updated>
   <id>https://zard.fun/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="https://zard.fun/2021/06/12/test/"/>
+    <id>https://zard.fun/2021/06/12/test/</id>
+    <published>2021-06-12T07:05:37.964Z</published>
+    <updated>2021-06-12T08:19:04.504Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。</p><p><a href="https://imgtu.com/i/25uWnK"><img src="https://z3.ax1x.com/2021/06/12/25uWnK.jpg" alt="25uWnK.jpg"></a></p><h2 id="这是个test页面"><a href="#这是个test页面" class="headerlink" title="这是个test页面"></a>这是个test页面</h2><h3 id="我是天才猪猪猪"><a href="#我是天才猪猪猪" class="headerlink" title="我是天才猪猪猪"></a>我是天才猪猪猪</h3><h4 id="你是猪"><a href="#你是猪" class="headerlink" title="你是猪"></a>你是猪</h4><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$a</span>=<span class="string">&quot;&quot;</span>;</span><br><span class="line"><span class="variable">$b</span>=&amp;<span class="variable">$x</span>;</span><br><span class="line"><span class="variable">$x</span>=array_keys(<span class="variable">$_GET</span>)[<span class="number">0</span>];</span><br><span class="line"><span class="variable">$$a</span>=<span class="variable">$b</span>;</span><br><span class="line">system(<span class="string">&#x27;//--;&#x27;</span>.<span class="variable">$$$$a</span>);<span class="comment">//$$a也可绕过</span></span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure><p>无敌芜湖！</p><h3 id="我是天才猪猪"><a href="#我是天才猪猪" class="headerlink" title="我是天才猪猪"></a>我是天才猪猪</h3><p>无敌芜湖！</p><p>无敌芜湖！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是 一大堆废话。这是</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://zard.fun/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://zard.fun/2021/06/11/hello-world/"/>
     <id>https://zard.fun/2021/06/11/hello-world/</id>
     <published>2021-06-11T06:21:53.574Z</published>
-    <updated>2021-06-11T06:21:53.574Z</updated>
+    <updated>2021-06-12T08:17:54.457Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
