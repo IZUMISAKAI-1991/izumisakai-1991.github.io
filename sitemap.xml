@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zard.fun/link/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zard.fun/2021/06/12/test/</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zard.fun/about/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -17,13 +31,6 @@
   
   <url>
     <loc>https://zard.fun/tags/index.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zard.fun/about/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -67,5 +74,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://zard.fun/categories/test/</loc>
+    <lastmod>2021-06-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
