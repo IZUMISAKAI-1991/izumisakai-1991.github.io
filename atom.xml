@@ -6,7 +6,7 @@
   <link href="https://zard.fun/atom.xml" rel="self"/>
   
   <link href="https://zard.fun/"/>
-  <updated>2021-06-12T12:06:26.177Z</updated>
+  <updated>2021-06-12T13:40:52.634Z</updated>
   <id>https://zard.fun/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="https://zard.fun/2021/06/12/21-06-12/"/>
     <id>https://zard.fun/2021/06/12/21-06-12/</id>
     <published>2021-06-12T11:56:14.000Z</published>
-    <updated>2021-06-12T12:06:26.177Z</updated>
+    <updated>2021-06-12T13:40:52.634Z</updated>
     
+    <content type="html"><![CDATA[<h2 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h2><p>今天是2021-06-12日，起来是晴天，天黑了开始下雨了。然后今天也是英语四六级考试，我没有报名，于是很舒服的睡到下午一点才起床。起来上摩尔庄园种个菜，上个厕所，就去机房学高数了。高数过于简单，好在明天考完这学期就可以不用看了😎。看了一会然后就开始改博客。。。。。。很快就到了饭点，便和吴孙上食堂吃饭一个蛋一根烤肠一份不知道啥配土豆牛肉。吴孙的饭也是我刷的，还没给我钱。碰巧ssn摇人点蜜雪冰城，于是我让去万达玩的机房学妹给我带了杯<em>牛油果糯糯</em> 。吃完就上机房上物理课，吴大权讲话声音太轻，就挂后台准备回来看回放。没多久学妹归来，带来了<em>牛油果糯糯</em>，🔨的糯糯里面竟然放了糯米，咸的，让人想到脚踩糯米的感觉，脚气的感觉。差评！巴拉巴拉之后，观测到吴孙与学妹吹水，再巴拉巴拉准备回去。外面好像下了不大不小的雨还打雷，吴孙便叫来了的他的阿飞爹送伞。平安到达寝室，吴孙的儿子ssn还没有吃晚饭。他今天的晚餐是高端的康师傅橙色桶装泡面加个蛋，令人羡慕不已，他还和我说了让子弹飞里的有句话：正经人谁写日记。</p><h2 id="今日支出"><a href="#今日支出" class="headerlink" title="今日支出"></a>今日支出</h2><table><thead><tr><th>类型</th><th align="left">金额</th></tr></thead><tbody><tr><td>饭卡充值</td><td align="left">30￥</td></tr><tr><td>奶茶</td><td align="left">18￥</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;日记&quot;&gt;&lt;a href=&quot;#日记&quot; class=&quot;headerlink&quot; title=&quot;日记&quot;&gt;&lt;/a&gt;日记&lt;/h2&gt;&lt;p&gt;今天是2021-06-12日，起来是晴天，天黑了开始下雨了。然后今天也是英语四六级考试，我没有报名，于是很舒服的睡到下午一点才起床。起来上摩</summary>
+      
     
     
     
@@ -64,9 +71,9 @@
     <link href="https://zard.fun/2021/06/11/hello-world/"/>
     <id>https://zard.fun/2021/06/11/hello-world/</id>
     <published>2021-06-11T06:21:53.574Z</published>
-    <updated>2021-06-12T08:17:54.457Z</updated>
+    <updated>2021-06-12T13:43:46.223Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>这是hexo自带的啊 不用看了 不舍得删掉</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
