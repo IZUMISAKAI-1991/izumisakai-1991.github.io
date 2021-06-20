@@ -6,7 +6,7 @@
   <link href="https://zard.fun/atom.xml" rel="self"/>
   
   <link href="https://zard.fun/"/>
-  <updated>2021-06-19T13:36:21.539Z</updated>
+  <updated>2021-06-20T16:14:48.486Z</updated>
   <id>https://zard.fun/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>210620</title>
+    <link href="https://zard.fun/2021/06/21/21-06-20/"/>
+    <id>https://zard.fun/2021/06/21/21-06-20/</id>
+    <published>2021-06-20T16:12:30.000Z</published>
+    <updated>2021-06-20T16:14:48.486Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h2><p>今天是2021年6月20日，天气雨。写晚了，今天是物理考试。结束。</p><hr><h2 id="账单"><a href="#账单" class="headerlink" title="账单"></a>账单</h2><table><thead><tr><th>类型</th><th>金额</th></tr></thead><tbody><tr><td>晚饭</td><td>17￥</td></tr><tr><td>水</td><td>未知</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;日记&quot;&gt;&lt;a href=&quot;#日记&quot; class=&quot;headerlink&quot; title=&quot;日记&quot;&gt;&lt;/a&gt;日记&lt;/h2&gt;&lt;p&gt;今天是2021年6月20日，天气雨。写晚了，今天是物理考试。结束。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;账单&quot;&gt;&lt;a href=&quot;#账单&quot; c</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://zard.fun/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://zard.fun/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="账单" scheme="https://zard.fun/tags/%E8%B4%A6%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>210619</title>
